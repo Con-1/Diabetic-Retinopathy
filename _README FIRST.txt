@@ -1,0 +1,13 @@
+Sir, 
+- The question asked to analyze the images of of the retina to figure out that it shows the symptoms of the Diabetic Retinopathy or not.
+- But the only dataset avaibele for it was IRDIA diabetic and one was available inn kaggle but it was 80GB.
+- And making convolutional network was new to me. So i started studying about it.
+- I started with the basics MNIST database.
+- But when i moved to the database i relasied i needed some extra hardware and specs to deal with it.
+- Like Nvidia Graphic cards with CUDA drivers.
+- I tried configuring my tensorflow to to work without them, but it didnt helped.
+- So i tried Switching it to the platform provided python notebooks like AWS and IBM watson but they were not free.
+- So i switched to numeric data and trained nureal network.
+- Do i have made a python notebook with the code,report and graphs and analysis all in it.
+- And as asked i tried some innovation by predicting completly new data provided by user once model is trained.
+- Rest the python notebook is self explanatory.
